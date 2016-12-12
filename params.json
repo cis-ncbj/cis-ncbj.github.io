@@ -1,0 +1,6 @@
+{
+  "name": "Opensource @ CIŚ",
+  "tagline": "",
+  "body": "### Świerk Computing Centre.\r\nŚwierk Computing Centre (CIŚ) mission is to deliver high-quality modern IT services to all entities involved in development of nuclear power industry sector in Poland, as well as to Polish government agencies and research institutions. We operate one of the largest super computers in Poland \r\n\r\n### OpenSource\r\nWhenever possible we release the applications created at CIŚ under opensource licensing. The projects are available at: https://github.com/cis-ncbj\r\n\r\nSome notable examples:\r\n- [Docker Introduction](https://cis-ncbj.github.io/docker-introduction/) - a slide deck with introductory Docker Tutorial\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
